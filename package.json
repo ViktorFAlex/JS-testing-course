@@ -1,0 +1,15 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "Training course on Autotesting",
+  "main": "capitalize.js",
+  "directories": {
+    "test": "tests"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
